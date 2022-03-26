@@ -291,3 +291,4 @@ String operator+(const String& string1, const String& string2) {
   String result = string1;
   return result += string2;
 }
+
